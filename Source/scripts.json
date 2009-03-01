@@ -14,12 +14,12 @@
 
 		"Date.English.US": {
 			"deps": ["MooTools.Lang"],
-			"desc": "Date messages in English (with conventions for the US).",
+			"desc": "Date messages in English (with conventions for the US)."
 		},
 
 		"Date.Estonian": {
 			"deps": ["MooTools.Lang"],
-			"desc": "Date messages in Estonian.",
+			"desc": "Date messages in Estonian."
 		},
 
 		"Date.Italian": {
