@@ -17,6 +17,11 @@
 			"desc": "Date messages in English (with conventions for the US).",
 		},
 
+		"Date.Estonian": {
+			"deps": ["MooTools.Lang"],
+			"desc": "Date messages in Estonian.",
+		},
+
 		"Date.Italian": {
 			"deps": ["MooTools.Lang"],
 			"desc": "Date messages in Italian."
@@ -60,6 +65,11 @@
 		"FormValidator.English": {
 			"deps": ["MooTools.Lang"],
 			"desc": "FormValidator messages in English."
+		},
+
+		"FormValidator.Estonian": {
+			"deps": ["MooTools.Lang"],
+			"desc": "FormValidator messages in Estonian."
 		},
 
 		"FormValidator.French": {
