@@ -5,15 +5,15 @@ Contains the messages for [FormValidator][] in Chinese.
 
 ### Simplified Chinese Usage
 
-Simply change the language property to *cnCHS*.
+Simply change the language property to *zhs-CN*.
 
-	MooTools.lang.setLanguage("cnCHS");
+	MooTools.lang.setLanguage("zhs-CN");
 
 ### Traditional Chinese Usage
 
-Simply change the language property to *cnCHT*.
+Simply change the language property to *zht-CN*.
 
-	MooTools.lang.setLanguage("cnCHT");
+	MooTools.lang.setLanguage("zht-CN");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Portuguese.
 
 ### Usage
 
-Simply change the language property to *POR*.
+Simply change the language property to *pt-PT*.
 
-	MooTools.lang.setLanguage("POR");
+	MooTools.lang.setLanguage("pt-PT");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

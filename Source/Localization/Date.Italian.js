@@ -11,7 +11,7 @@ Script: Date.Italian.js
 
 */
  
-MooTools.lang.set('IT', 'Date', {
+MooTools.lang.set('it-IT', 'Date', {
  
 	months: function(i) {
 		return ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'][i];

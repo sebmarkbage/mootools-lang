@@ -10,7 +10,7 @@ Script: FormValidator.Arabic.js
 
 */
 
-MooTools.lang.set('AR', 'FormValidator', {
+MooTools.lang.set('ar', 'FormValidator', {
 	required:'هذا الحقل مطلوب.',
 	minLength:'رجاءً إدخال {minLength}  أحرف على الأقل (تم إدخال {length} أحرف).',
 	maxLength:'الرجاء عدم إدخال أكثر من {maxLength} أحرف (تم إدخال {length} أحرف).',

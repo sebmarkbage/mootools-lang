@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in French.
 
 ### Usage
 
-Simply change the language property to *FRA*.
+Simply change the language property to *fr-FR*.
 
-	MooTools.lang.setLanguage("FRA");
+	MooTools.lang.setLanguage("fr-FR");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Portuguese specific to Brazil.
 
 ### Usage
 
-Simply change the language property to *brPOR*.
+Simply change the language property to *pt-BR*.
 
-	MooTools.lang.setLanguage("brPOR");
+	MooTools.lang.setLanguage("pt-BR");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

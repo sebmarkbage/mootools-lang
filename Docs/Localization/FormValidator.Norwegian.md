@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Norwegian.
 
 ### Usage
 
-Simply change the language property to *NO*.
+Simply change the language property to *no-NO*.
 
-	MooTools.lang.setLanguage("NO");
+	MooTools.lang.setLanguage("no-NO");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Catalan.
 
 ### Usage
 
-Simply change the language property to *CAT*.
+Simply change the language property to *ca-CA*.
 
-	MooTools.lang.setLanguage("CAT");
+	MooTools.lang.setLanguage("ca-CA");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 
