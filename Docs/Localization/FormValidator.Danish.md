@@ -1,17 +1,17 @@
 Class: FormValidator {#FormValidator}
 =====================================
 
-Contains the messages for [FormValidator][] in English.
+Contains the messages for [FormValidator][] in Danish.
 
 ### Authors
 
-* Aaron Newton
+* Martin Overgaard
 
 ### Usage
 
-Simply change the language property to *usENG*.
+Simply change the language property to *DK*.
 
-	MooTools.lang.setLanguage("usENG");
+	MooTools.lang.setLanguage("DK");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

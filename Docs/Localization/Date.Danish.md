@@ -1,17 +1,17 @@
 Class: Date {#Date}
 =====================================
 
-Contains the messages for [Date.Extras][] in English specific to the US.
+Contains the messages for [Date.Extras][] in Danish.
 
 ### Authors
 
-* Aaron Newton
+* Martin Overgaard
 
 ### Usage
 
-Simply change the language property to *usENG*.
+Simply change the language property to *DK*.
 
-	MooTools.lang.setLanguage("usENG");
+	MooTools.lang.setLanguage("DK");
 
 See also: [Date.Extras][] and [MooTools.Lang][]
 

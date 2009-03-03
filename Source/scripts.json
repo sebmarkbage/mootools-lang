@@ -2,6 +2,11 @@
 
 	"Localization": {
 
+		"Date.Danish": {
+			"deps": ["MooTools.Lang"],
+			"desc": "Date messages in Danish."
+		},
+
 		"Date.Dutch": {
 			"deps": ["MooTools.Lang"],
 			"desc": "Date messages in Dutch."
@@ -12,9 +17,9 @@
 			"desc": "Date messages in English (with conventions for Great Britain)."
 		},
 
-		"Date.English.US": {
+		"Date.French": {
 			"deps": ["MooTools.Lang"],
-			"desc": "Date messages in English (with conventions for the US)."
+			"desc": "Date messages in French."
 		},
 
 		"Date.Italian": {
@@ -57,11 +62,6 @@
 			"desc": "FormValidator messages in Dutch."
 		},
 
-		"FormValidator.English": {
-			"deps": ["MooTools.Lang"],
-			"desc": "FormValidator messages in English."
-		},
-
 		"FormValidator.French": {
 			"deps": ["MooTools.Lang"],
 			"desc": "FormValidator messages in French."
@@ -85,6 +85,11 @@
 		"FormValidator.Portuguese": {
 			"deps": ["MooTools.Lang"],
 			"desc": "FormValidator messages in Portuguese."
+		},
+
+		"FormValidator.Portuguese.BR": {
+			"deps": ["MooTools.Lang"],
+			"desc": "FormValidator messages in Portuguese localized for Brazil."
 		},
 
 		"FormValidator.Russian": {
