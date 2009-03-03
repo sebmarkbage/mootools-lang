@@ -11,7 +11,7 @@ Script: FormValidator.German.js
 
 */
 
-MooTools.lang.set('de-DE', 'FormValidator', {
+MooTools.lang.set('DE', 'FormValidator', {
 
 	required:'Dieses Feld ist obligatorisch.',
 	minLength:'Geben Sie bitte mindestens {minLength} Zeichen ein (Sie haben {length} Zeichen eingegeben).',

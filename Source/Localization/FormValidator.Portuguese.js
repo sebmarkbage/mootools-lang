@@ -10,7 +10,7 @@ Script: FormValidator.Portuguese.js
 
 */
 
-MooTools.lang.set('pt-PT', 'FormValidator', {
+MooTools.lang.set('POR', 'FormValidator', {
 	required:'Este campo é necessário.',
 	minLength:'Digite pelo menos{minLength} caracteres (comprimento {length} caracteres).',
 	maxLength:'Não insira mais de {maxLength} caracteres (comprimento {length} caracteres).',
@@ -28,6 +28,6 @@ MooTools.lang.set('pt-PT', 'FormValidator', {
 	errorPrefix: 'Erro: ',
 	warningPrefix: 'Aviso: '
 
-}).set('pt-PT', 'Date', {
+}).set('POR', 'Date', {
 	dateOrder: ['date', 'month', 'year', '/']
 });

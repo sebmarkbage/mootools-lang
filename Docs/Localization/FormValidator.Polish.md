@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Polish.
 
 ### Usage
 
-Simply change the language property to *pl-PL*.
+Simply change the language property to *PL*.
 
-	MooTools.lang.setLanguage("pl-PL");
+	FormValidator.language = "PL";
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

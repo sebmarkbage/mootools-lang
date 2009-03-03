@@ -10,9 +10,9 @@ Contains the messages for [FormValidator][] in Italian.
 
 ### Usage
 
-Simply change the language property to *it-IT*.
+Simply change the language property to *IT*.
 
-	MooTools.lang.setLanguage("it-IT");
+	MooTools.lang.setLanguage("IT");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

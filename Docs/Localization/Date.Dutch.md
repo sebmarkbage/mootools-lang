@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in Dutch.
 
 ### Usage
 
-Simply change the language property to *nl-NL*.
+Simply change the language property to *NL*.
 
-	MooTools.lang.setLanguage("nl-NL");
+	MooTools.lang.setLanguage("NL");
 
 See also: [Date.Extras][] and [MooTools.Lang][]
 

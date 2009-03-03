@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Spanish.
 
 ### Usage
 
-Simply change the language property to *es-ES*.
+Simply change the language property to *ESP*.
 
-	MooTools.lang.setLanguage("es-ES");
+	MooTools.lang.setLanguage("ESP");
 
 See also: [FormValidator][] and [MooTools.Lang][]
 

@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in Polish.
 
 ### Usage
 
-Simply change the language property to *pl-PL*.
+Simply change the language property to *PL*.
 
-	MooTools.lang.setLanguage("pl-PL");
+	MooTools.lang.setLanguage("PL");
 
 See also: [Date.Extras][] and [MooTools.Lang][]
 

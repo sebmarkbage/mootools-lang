@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in Portuguese specific to Brazil.
 
 ### Usage
 
-Simply change the language property to *pt-BR*.
+Simply change the language property to *brPOR*.
 
-	MooTools.lang.setLanguage("pt-BR");
+	MooTools.lang.setLanguage("brPOR");
 
 See also: [Date.Extras][] and [MooTools.Lang][]
 

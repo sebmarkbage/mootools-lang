@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in English specific to the US.
 
 ### Usage
 
-Simply change the language property to *en-US*.
+Simply change the language property to *usENG*.
 
-	MooTools.lang.setLanguage("en-US");
+	MooTools.lang.setLanguage("usENG");
 
 See also: [Date.Extras][] and [MooTools.Lang][]
 
