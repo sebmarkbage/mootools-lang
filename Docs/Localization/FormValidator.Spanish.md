@@ -13,7 +13,7 @@ Simply change the language property to *ESP*.
 
 	MooTools.lang.setLanguage("ESP");
 
-See also: [FormValidator][] and [MooTools.Lang][]
+See also: [FormValidator][] and [Lang][]
 
 [FormValidator]: http://www.mootools.net/docs/more/Forms/FormValidator#FormValidator
-[MooTools.Lang]: http://www.mootools.net/docs/more/Core/MooTools.Lang
+[Lang]: http://www.mootools.net/docs/more/Core/Lang

@@ -13,7 +13,7 @@ Simply change the language property to *gbENG*.
 
 	MooTools.lang.setLanguage("gbENG");
 
-See also: [Date.Extras][] and [MooTools.Lang][]
+See also: [Date.Extras][] and [Lang][]
 
-[FormValidator]: http://www.mootools.net/docs/more/Forms/FormValidator#FormValidator
+[Lang]: http://www.mootools.net/docs/more/Core/Lang 
 [Date.Extras]: http://www.mootools.net/docs/more/Native/Date.Extras

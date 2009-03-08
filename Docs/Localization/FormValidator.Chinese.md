@@ -15,7 +15,7 @@ Simply change the language property to *cnCHT*.
 
 	MooTools.lang.setLanguage("cnCHT");
 
-See also: [FormValidator][] and [MooTools.Lang][]
+See also: [FormValidator][] and [Lang][]
 
 Included Validators
 -------------------
@@ -23,4 +23,4 @@ Included Validators
 * validate-currency-yuan - validates that the entry is a Yuan value.
 
 [FormValidator]: http://www.mootools.net/docs/more/Forms/FormValidator#FormValidator
-[MooTools.Lang]: http://www.mootools.net/docs/more/Core/MooTools.Lang
+[Lang]: http://www.mootools.net/docs/more/Core/Lang
