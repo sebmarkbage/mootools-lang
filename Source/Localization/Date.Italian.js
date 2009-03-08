@@ -25,11 +25,7 @@ MooTools.lang.set('IT', 'Date', {
 	PM: 'PM',
 
 	/* Date.Extras */
-	ordinal: function(dayOfMonth){
-	  //1st, 2nd, 3rd, etc.
-	  //return (dayOfMonth > 3 && dayOfMonth < 21) ? 'th' : ['th', 'st', 'nd', 'rd', 'th'][Math.min(dayOfMonth % 10, 4)];
-	  return '&ordm;';
-	},
+	ordinal: '&ordm;',
 
 	lessThanMinuteAgo: 'meno di un minuto fa',
 	minuteAgo: 'circa un minuto fa',
