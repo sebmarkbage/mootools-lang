@@ -17,6 +17,11 @@
 			"desc": "Date messages in English (with conventions for Great Britain)."
 		},
 
+		"Date.Estonian": {
+			"deps": ["Lang"],
+			"desc": "Date messages in Estonian."
+		},
+
 		"Date.French": {
 			"deps": ["Lang"],
 			"desc": "Date messages in French."
@@ -60,6 +65,11 @@
 		"FormValidator.Dutch": {
 			"deps": ["Lang"],
 			"desc": "FormValidator messages in Dutch."
+		},
+
+		"FormValidator.Estonian": {
+			"deps": ["Lang"],
+			"desc": "FormValidator messages in Estonian."
 		},
 
 		"FormValidator.French": {
