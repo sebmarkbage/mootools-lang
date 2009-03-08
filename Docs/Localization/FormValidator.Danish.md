@@ -15,5 +15,5 @@ Simply change the language property to *DK*.
 
 See also: [FormValidator][] and [MooTools.Lang][]
 
-[FormValidator]: http://www.mootools.net/more/docs/Forms/FormValidator#FormValidator
-[MooTools.Lang]: http://www.mootools.net/more/docs/Core/MooTools.Lang
+[FormValidator]: http://www.mootools.net/docs/more/Forms/FormValidator#FormValidator
+[MooTools.Lang]: http://www.mootools.net/docs/more/Core/MooTools.Lang
