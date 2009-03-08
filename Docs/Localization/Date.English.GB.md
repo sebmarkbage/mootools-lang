@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in English specific to the UK.
 
 ### Usage
 
-Simply change the language property to *gbENG*.
+Simply change the language property to *en-GB*.
 
-	MooTools.lang.setLanguage("gbENG");
+	MooTools.lang.setLanguage("en-GB");
 
 See also: [Date.Extras][] and [Lang][]
 

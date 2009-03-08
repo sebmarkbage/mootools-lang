@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Danish.
 
 ### Usage
 
-Simply change the language property to *DK*.
+Simply change the language property to *da-DK*.
 
-	MooTools.lang.setLanguage("DK");
+	MooTools.lang.setLanguage("da-DK");
 
 See also: [FormValidator][] and [Lang][]
 

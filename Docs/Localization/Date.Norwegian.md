@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in Norwegian.
 
 ### Usage
 
-Simply change the language property to *NO*.
+Simply change the language property to *no-NO*.
 
-	MooTools.lang.setLanguage("NO");
+	MooTools.lang.setLanguage("no-NO");
 
 See also: [Date.Extras][] and [Lang][]
 

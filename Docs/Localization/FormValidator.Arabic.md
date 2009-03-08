@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Arabic.
 
 ### Usage
 
-Simply change the language property to *AR*.
+Simply change the language property to *ar*.
 
-	MooTools.lang.setLanguage("AR");
+	MooTools.lang.setLanguage("ar");
 
 See also: [FormValidator][] and [Lang][]
 

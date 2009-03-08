@@ -9,10 +9,10 @@ Contains the messages for [FormValidator][] in Russian.
 
 ### Usage
 
-Simply change the language property to *RU* or *RU_unicode*.
+Simply change the language property to *ru-RU* or *ru-RU-unicode*.
 
-	MooTools.lang.setLanguage("RU"); //windows-1251
-	MooTools.lang.setLanguage("RU_unicode"); //utf-8
+	MooTools.lang.setLanguage("ru-RU"); //windows-1251
+	MooTools.lang.setLanguage("ru-RU-unicode"); //utf-8
 
 ### Note
 

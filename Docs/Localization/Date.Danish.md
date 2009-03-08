@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in Danish.
 
 ### Usage
 
-Simply change the language property to *DK*.
+Simply change the language property to *da-DK*.
 
-	MooTools.lang.setLanguage("DK");
+	MooTools.lang.setLanguage("da-DK");
 
 See also: [Date.Extras][] and [Lang][]
 

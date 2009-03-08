@@ -9,9 +9,9 @@ Contains the messages for [FormValidator][] in Polish.
 
 ### Usage
 
-Simply change the language property to *PL*.
+Simply change the language property to *pl-PL*.
 
-	FormValidator.language = "PL";
+	FormValidator.language = "pl-PL";
 
 See also: [FormValidator][] and [Lang][]
 

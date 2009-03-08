@@ -9,9 +9,9 @@ Contains the messages for [Date.Extras][] in French.
 
 ### Usage
 
-Simply change the language property to *FR*.
+Simply change the language property to *fr-FR*.
 
-	MooTools.lang.setLanguage("FR");
+	MooTools.lang.setLanguage("fr-FR");
 
 See also: [Date.Extras][] and [Lang][]
 
