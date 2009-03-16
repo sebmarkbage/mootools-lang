@@ -54,7 +54,12 @@
 
 		"Date.Spanish": {
 			"deps": ["Lang"],
-			"desc": "Date messages in Portuguese for Spanish."
+			"desc": "Date messages in Spanish."
+		},
+
+		"Date.Swedish": {
+			"deps": ["Lang"],
+			"desc": "Date messages in Swedish."
 		},
 
 		"FormValidator.Arabic": {
@@ -120,6 +125,11 @@
 		"FormValidator.Spanish": {
 			"deps": ["Lang"],
 			"desc": "FormValidator messages in Spanish."
+		},
+
+		"FormValidator.Swedish": {
+			"deps": ["Lang"],
+			"desc": "FormValidator messages in Swedish."
 		}
 
 	}
