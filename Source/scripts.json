@@ -52,6 +52,11 @@
 			"desc": "Date messages in Portuguese for Brazil."
 		},
 
+		"Date.Spanish": {
+			"deps": ["Lang"],
+			"desc": "Date messages in Portuguese for Spanish."
+		},
+
 		"FormValidator.Arabic": {
 			"deps": ["Lang"],
 			"desc": "FormValidator messages in Arabic."
