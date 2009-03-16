@@ -24,10 +24,7 @@ MooTools.lang.set('et-EE', 'Date', {
 	PM: 'PM',
 
 	/* Date.Extras */
-	ordinal: function(){
-		// The Estonian language does not have
-		return '';
-	},
+	ordinal: '',
 
 	lessThanMinuteAgo: 'vähem kui minut aega tagasi',
 	minuteAgo: 'umbes minut aega tagasi',

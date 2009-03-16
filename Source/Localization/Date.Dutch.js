@@ -24,10 +24,7 @@ MooTools.lang.set('nl-NL', 'Date', {
 	PM: 'PM',
 
 	/* Date.Extras */
-	ordinal: function(dayOfMonth){
-	  //1st, 2nd, 3rd, etc.
-	  return 'e';
-	},
+	ordinal: 'e',
 
 	lessThanMinuteAgo: 'korter dan een minuut geleden',
 	minuteAgo: 'ongeveer een minuut geleden',

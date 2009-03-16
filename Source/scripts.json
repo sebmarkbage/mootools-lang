@@ -2,6 +2,11 @@
 
 	"Localization": {
 
+		"Date.Catalan": {
+			"deps": ["Lang"],
+			"desc": "Date messages in Catalan."
+		},
+
 		"Date.Danish": {
 			"deps": ["Lang"],
 			"desc": "Date messages in Danish."
