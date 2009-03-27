@@ -21,10 +21,10 @@ MooTools.lang.set('pl-PL', 'FormValidator', {
 	alpha:'Prosimy używać tylko liter (a-z) w tym polu. Spacje oraz inne znaki są niedozwolone.',
 	alphanum:'Prosimy używać tylko liter (a-z) lub liczb (0-9) w tym polu. Spacje oraz inne znaki są niedozwolone.',
 	dateSuchAs:'Prosimy podać prawidłową datę w formacie: {date}',
-	dateInFormatMDY:'Please enter a valid date such as MM/DD/YYYY (i.e. "12/31/1999")',
+	dateInFormatMDY:'Prosimy podać poprawną date w formacie DD.MM.RRRR (i.e. "12.01.2009")',
 	email:'Prosimy podać prawidłowy adres e-mail, np. "jan@domena.pl".',
 	url:'Prosimy podać prawidłowy adres URL, np. http://www.google.pl.',
-	currencyDollar:'Please enter a valid $ amount. For example $100.00 .', // this makes no sense for other than the US localization
+	currencyDollar:'Prosimy podać prawidłową sumę w PLN. Dla przykładu: 100.00 PLN.',
 	oneRequired:'Prosimy wypełnić chociaż jedno z pól.',
 	errorPrefix: 'Błąd: ',
 	warningPrefix: 'Uwaga: ',
@@ -39,8 +39,8 @@ MooTools.lang.set('pl-PL', 'FormValidator', {
 	startDate: 'data początkowa',
 	endDate: 'data końcowa',
 	currendDate: 'aktualna data',
-	afterDate: 'The date should be the same or after {label}.',
-	beforeDate: 'The date should be the same or before {label}.',
+	afterDate: 'Podana data poinna być taka sama lub po {label}.',
+	beforeDate: 'Podana data poinna być taka sama lub przed {label}.',
 	startMonth: 'Prosimy wybrać początkowy miesiąc.',
 	sameMonth: 'Te dwie daty muszą być w zakresie tego samego miesiąca - wymagana jest zmiana któregoś z pól.'
 
