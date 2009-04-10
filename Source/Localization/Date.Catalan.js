@@ -12,12 +12,8 @@ Script: Date.Catalan.US.js
 
 MooTools.lang.set('ca-CA', 'Date', {
 
-	months: function(i){
-		return ['Gener', 'Febrer', 'Març', 'Abril', 'Maig', 'Juny', 'Juli', 'Agost', 'Setembre', 'Octubre', 'Novembre', 'Desembre'][i]
-	},
-	days: function(i) {
-		return ['Diumenge', 'Dilluns', 'Dimarts', 'Dimecres', 'Dijous', 'Divendres', 'Dissabte'][i];
-	},
+	months: ['Gener', 'Febrer', 'Març', 'Abril', 'Maig', 'Juny', 'Juli', 'Agost', 'Setembre', 'Octubre', 'Novembre', 'Desembre'],
+	days: ['Diumenge', 'Dilluns', 'Dimarts', 'Dimecres', 'Dijous', 'Divendres', 'Dissabte'],
 	//culture's date order: MM/DD/YYYY
 	dateOrder: ['date', 'month', 'year', '/'],
 	AM: 'AM',

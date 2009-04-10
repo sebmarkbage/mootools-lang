@@ -12,12 +12,8 @@ Script: Date.Dutch.js
 
 MooTools.lang.set('nl-NL', 'Date', {
 
-	months: function(i){
-		return ['Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustys', 'September', 'Oktober', 'November', 'December'][i];
-	},
-	days: function(i){
-		return ['Zondag', 'Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag'][i];
-	},
+	months: ['Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustys', 'September', 'Oktober', 'November', 'December'],
+	days: ['Zondag', 'Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag'],
 	//culture's date order: DD/MM/YYYY
 	dateOrder: ['date', 'month', 'year', '-'],
 	AM: 'AM',

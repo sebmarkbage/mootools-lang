@@ -12,12 +12,8 @@ Script: Date.Swedish.js
 
 MooTools.lang.set('sv-SE', 'Date', {
 
-	months: function(i){
-		return ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december'][i]
-	},
-	days: function(i) {
-		return ['söndag', 'måndag', 'tisdag', 'onsdag', 'torsdag', 'fredag', 'lördag'][i];
-	},
+	months: ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december'],
+	days: ['söndag', 'måndag', 'tisdag', 'onsdag', 'torsdag', 'fredag', 'lördag'],
 	// culture's date order: YYYY-MM-DD
 	dateOrder: ['year', 'month', 'date', '-'],
 	AM: '',

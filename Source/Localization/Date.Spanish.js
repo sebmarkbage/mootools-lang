@@ -12,12 +12,8 @@ Script: Date.Spanish.US.js
 
 MooTools.lang.set('es-ES', 'Date', {
 
-	months: function(i){
-		return ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'][i]
-	},
-	days: function(i) {
-		return ['Domingo', 'Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado'][i];
-	},
+	months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+	days: ['Domingo', 'Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado'],
 	//culture's date order: MM/DD/YYYY
 	dateOrder: ['date', 'month', 'year', '/'],
 	AM: 'AM',
