@@ -13,7 +13,7 @@ Script: FormValidator.German.js
 
 MooTools.lang.set('de-DE', 'FormValidator', {
 
-	required:'Dieses Feld ist obligatorisch.',
+	required:'Dieses Feld mu&szlig; ausgef&uuml;llt werden.',
 	minLength:'Geben Sie bitte mindestens {minLength} Zeichen ein (Sie haben {length} Zeichen eingegeben).',
 	maxLength:'Bitte geben Sie nicht mehr als {maxLength} Zeichen ein (Sie haben {length} Zeichen eingegeben).',
 	integer:'Geben Sie bitte eine ganze Zahl ein. Dezimalzahlen (z.B. 1.25) sind nicht erlaubt.',
@@ -34,7 +34,7 @@ MooTools.lang.set('de-DE', 'FormValidator', {
 
 	noSpace: 'Es darf kein Leerzeichen in diesem Eingabefeld sein.',
 	reqChkByNode: 'Es wurden keine Elemente gew&auml;hlt.',
-	requiredChk: 'Dieses Feld ist obligatorisch.',
+	requiredChk: 'Dieses Feld mu&szlig; ausgef&uuml;llt werden.',
 	reqChkByName: 'Bitte w&auml;hlen Sie ein {label}.',
 	match: 'Dieses Eingabefeld muss mit dem Feld {matchName} &uuml;bereinstimmen.',
 	startDate: 'Das Anfangsdatum',
