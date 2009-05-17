@@ -18,7 +18,7 @@ MooTools.lang.set('ca-CA', 'Date', {
 	dateOrder: ['date', 'month', 'year'],
 
 	shortDate: '%d/%m/%Y',
-	shortTime: '%I:%M%p',
+	shortTime: '%H:%M',
 
 	AM: 'AM',
 	PM: 'PM',
